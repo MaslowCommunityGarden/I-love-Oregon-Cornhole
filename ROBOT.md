@@ -1,3 +1,5 @@
-ModerationLevel = communityManaged
-
- Facilitator: hannahebteagle
+{
+    "ModerationLevel": "communityManaged",
+    "Facilitator": "hannahebteagle",
+    "Category": "other" 
+}
